@@ -35,3 +35,8 @@ I have extensive experience in:
 As a cloud enthusiast, I share my knowledge through blogs on AWS services and hands-on tutorials on platforms like Medium and GitHub, empowering others to navigate cloud technologies with ease.
 
 Medium : https://medium.com/@tojanasg
+
+<p align="center">
+  <a href="www.linkedin.com/in/janarthanan-ravikumar☁️" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-thebadge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="http://www.amirmalaeb.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF4713.svg?&style=for-the-badge&logo=hugo&logoColor=white" alt="Website"></a>
+</p>
