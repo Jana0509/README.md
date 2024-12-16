@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <i>Leveraging cloud technologies to drive business transformation and deliver scalable, secure, and cost-effective IT solutions. Passionate about continuous learning and automating everything.</i>
+  <i>Leveraging cloud technologies to drive business transformation and deliver scalable, secure, and cost-effective IT solutions. Passionate about continuous learning and Distributed Computing.</i>
 </p>
 
 Hi, I'm **Janarthanan Ravikumar**, a **hands-on Solution Architect** with over 8 years of experience in cloud architecture design and a passion for continuous learning and exploring new technologies.
