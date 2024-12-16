@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Certified+Solutions+Architect;Cloud+Innovation+Leader;Global+IT+Strategist;Continuous+Learner;Developer&center=true&width=800&height=50">
 </p>
 
+<p align="center">
+  <i>Leveraging cloud technologies to drive business transformation and deliver scalable, secure, and cost-effective IT solutions. Passionate about continuous learning and automating everything.</i>
+</p>
+
 Hi, I'm **Janarthanan Ravikumar**, a **hands-on Solution Architect** with over 8 years of experience in cloud architecture design and a passion for continuous learning and exploring new technologies.
 
 My journey began as a Backend Development Engineer, working with C# and Microsoft stacks, which gave me a strong foundation in software development and designing large-scale solutions. Over the years, I transitioned into cloud technologies, where I specialize in building and refactoring IT systems to unlock their full potential in the cloud.
