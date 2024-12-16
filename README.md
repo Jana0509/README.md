@@ -1,5 +1,8 @@
-# README.md
-Hi there 👋, Welcome to my Github page!
+<h1 align="center">Welcome to my GitHub Profile 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Certified+Solutions+Architect;Cloud+Innovation+Leader;Global+IT+Strategist;Continuous+Learner;Developer&center=true&width=800&height=50">
+</p>
 
 Hi, I'm **Janarthanan Ravikumar**, a **hands-on Solution Architect** with over 8 years of experience in cloud architecture design and a passion for continuous learning and exploring new technologies.
 
