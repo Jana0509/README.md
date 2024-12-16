@@ -38,5 +38,5 @@ Medium : https://medium.com/@tojanasg
 
 <p align="center">
   <a href="https://www.linkedin.com/in/janarthanan-ravikumar☁️" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://medium.com/@tojanasg" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF4713.svg?&style=for-the-badge&logo=hugo&logoColor=white" alt="Website"></a>
+  <a href="https://medium.com/@tojanasg" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF4713.svg?&style=for-the-badge&logo=hugo&logoColor=black" alt="Medium"></a>
 </p>
